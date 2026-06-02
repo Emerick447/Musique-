@@ -1,2 +1,2 @@
 # Musique-
-HTML des vidéos de musique 
+Ouvrir index.html pour utiliser la page
